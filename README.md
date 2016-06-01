@@ -1,3 +1,3 @@
 # hello-world
 hi,dude!
-  I'm new here. This is really fan.
+  I'm new here. This is really fun.
